@@ -16,7 +16,7 @@ Sample: [html.pdf](http://pyfpdf.googlecode.com/files/html.pdf)
 
 ### Parameters ###
 
-test:
+text:
 > string with HTML markup
 
 image_map:
